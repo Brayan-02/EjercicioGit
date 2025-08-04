@@ -1,0 +1,1 @@
+Este repositorio fue creado para practicar los comandos básicos de Git. El ejercicio consiste en clonar un repositorio desde GitHub, crear un archivo logros.txt, agregarle contenido, hacer un commit y subir los cambios con push
